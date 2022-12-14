@@ -29,6 +29,6 @@ The player with the highest number wins! The number rolled is chosen randomly.
 
 ---
 
-**The program was developed using HTML, CSS, JavaScript**
+**The website was developed using HTML, CSS, JavaScript**
 
 In order to run the program, you have to open dicee.html.
