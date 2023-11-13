@@ -1,0 +1,6 @@
+[submodule "04_Radnom_Star_Wars_Character_Webpage"]
+	path = 04_Radnom_Star_Wars_Character_Webpage
+	url = https://github.com/artursniegowski/Radnom_Star_Wars_Character_Webpage.git
+[submodule "05_Radnom_Star_Wars_Character_II_Webpage"]
+	path = 05_Radnom_Star_Wars_Character_II_Webpage
+	url = https://github.com/artursniegowski/Radnom_Star_Wars_Character_II_Webpage.git
